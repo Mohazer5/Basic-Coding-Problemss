@@ -1,0 +1,12 @@
+public class task19{
+  public static void main(String[]args){
+    double a=8;
+    double b=3;
+    double c=(Math.sqrt((a/2)*(a/2)+(b*b)));
+    double d=(((3*(Math.sqrt(3)))/2)*c*c);
+    double e=(6*c);
+    System.out.println("Area is "+d);
+    System.out.println("Circumference is "+e);
+  }
+}
+
