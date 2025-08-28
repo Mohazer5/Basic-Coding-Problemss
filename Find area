@@ -1,0 +1,7 @@
+public class task12{
+  public static void main(String[]args){
+    double R=1234;
+    System.out.println("Circumference: "+R*2*Math.PI);
+    System.out.println("Area: "+R*Math.PI*R);
+  }
+}
