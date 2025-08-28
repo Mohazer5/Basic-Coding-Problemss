@@ -1,0 +1,7 @@
+public class task14{
+  public static void main(String[]args){
+    int a=1000;
+    double b=0.0254*a;
+    System.out.println(a+" inch is "+b+ " meters");
+  }
+}
