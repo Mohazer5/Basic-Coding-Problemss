@@ -1,0 +1,10 @@
+public class task11{
+  public static void main(String[]args){
+    double A= 10;
+    double B= 5;
+    System.out.println(A);
+    System.out.println(A+B);
+    System.out.println(A*B);
+    System.out.println(A/B);
+  }
+}
